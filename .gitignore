@@ -1,3 +1,5 @@
-./models
-./.venv
+models
+.venv
 .env
+.idea
+__pycache__
