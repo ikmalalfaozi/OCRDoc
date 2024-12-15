@@ -37,7 +37,7 @@ Responsible for document preprocessing to correct rotation, alignment, and disto
      - **DeepLabv3** (Backbone: MobileNetV3-Large)  
        **Model Link**: [Download DeepLabv3 Model](https://drive.google.com/file/d/1pMS8N3JR-o0cLRohPm77L8eRqMo9WntX/view?usp=sharing)
 
-**Example Usage**: For detailed Python examples of how to use the Scanner module, see the [Scanner README](scanner_usage.md).
+**Example Usage**: For detailed Python examples of how to use the Scanner module, see the [Scanner README](./scanner/README.md).
 
 ---
 
@@ -69,7 +69,7 @@ Handles text extraction from processed document images using multiple OCR models
 7. **Text Extractor**
    - Combines multiple OCR approaches (Tesseract, EasyOCR, HDR) for bounding-box-based text extraction.
 
-**Example Usage**: For detailed Python examples of how to use the OCR module, see the [OCR README](ocr_usage.md).
+**Example Usage**: For detailed Python examples of how to use the OCR module, see the [OCR README](./ocr/README.md).
 
 ---
 
